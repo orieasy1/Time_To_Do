@@ -110,4 +110,5 @@ By contributing to this project, you agree that your contributions will be licen
 
 ### 📞 Contact
 If you have any questions, feel free to open an issue or contact us at easy1nhard2@gmail.com.
+Thank you!
 
